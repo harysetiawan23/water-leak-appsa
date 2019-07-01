@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "water-leak-detector-1bf02",
+  "private_key_id": "602771a05f64a9237a39c3920a3b14860507d6c0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwyeRmIz8J9pLE\nwvCpZCCs6WCDzZaPtt0wB+YTP6g1GtG5YFCcucvqmcQtVGVy8XGT2g51esB94hzU\nBi+Ouf9OodDfRBiFfHknvCe0ihikw6h+TP7Slo2HAN/+JAzCDA2D4mboKvbUUM+T\n+H06DyhCMkKZJJzCOcS0zW+MVmyc0BS47wTPjmrLVCJGqGVjI1tkgW0quich5pN/\nOBHwU+ZtDWZSaSI5LKd/6bUR2UpCpob8BtBNZTKBY+TixBfMdCxaNYrVUaGwAEDS\nEQQ8xPT6l5ROTwHpC8qj7sOu0LkUkDw5mKaRe7Rrj1N4hWnpZHMKuHLe+JX1vGSk\nIdUmCdNpAgMBAAECggEACe/jOHGBPNphABHUDLVt18JLdEUlUiEteCJthoX0ur1t\n7e1Rwql34pEvk3uzsx0KrQyb9PMIKFtCExHg8PUX+m/CiZYuiaxINBlRowaDIZnE\n2gqSZTxkqqK8NHEKzYp3ZQMgFSs7Eg6TyGW2hkGtWeEw2KJT9F/iZGZKv5jpBHxe\nmAB/685wxxZ67df/oN+ABcdxT2c2+lieh598fmkKWRKgJXmC5lsMfFQfNPqhypQ8\nAV3BZiQW9JESNXzBL+yBN8i5KZEzFbbOb6npkePCXneJZ87gCrV1HWBXohjfvqbV\nzuSxu+JsGLlSb+5ZMQbPgeXmgLM0+VcUJYC2Qo1rYQKBgQDzVDx4jMljayKTk4AV\nJg0y0InCYKt9HsPp5N/2bS5Pl6J2rZCCjIII0BwhaHUJ+SJp+Jj+NQNiMvLWd2ji\nvOEN/LR6M0c62M8Xq53lLxkmyMpYgGTrcODWKwePqnBcrMc5wwZ5fqudcWI8qZtu\nWGSxvx9qm4zpnNpHnZLmrSsTMQKBgQC5/p79lbz6nx7Gf6rKhd99tOSRPlHWtdVg\nQIn2Ko50puSfeaT7EaDHsmtB0zQkZ76NYPwtzOCQlihzROBUO+qIYFKhCh47V9Vv\nYFlbfhcWOiXHQXJb/iK7bc3sh2hYr4hZDf/G+xHVMM3sNT31SS0q008zjSgunHaA\nkhh1xtkFuQKBgQDH+lHcbTBR0cnP6WhZeTVdrr+ZDWPC59bxUhWybBakeSWfTZO3\nhwyTe52y4ytVL/hViWcLfLw0J1UmZ2q+9aYsnaQhziTbOzYv6O5SXbvZASozRAos\n6U8PFLwZGWVQ9PqjASJAFZerRHUNEANa07Cl2EJUllRf5nYKZ3lEtcrx8QKBgB4U\nftQWLmz95PVHWnDMe9uRsNGImaW23J5ncah9M3LMNvdPrg3oyO7i/RO1O56TpK6q\nu74Qf1UC4+HYhss4sXKC2Xov77m7N8p+c5UnbEZs+wUhoYQdMrLLTF1vfMGzCcMV\nT4N3wWeQMA1+gtmzjvl5GTsGHjSDm2qptgj+MsUJAoGBAKre7ObQQJWy9ZoMKwpD\n0EdJJ/T43osa1ZsQ41Y1vrHPHoFLV8EFpkuX3oLLIooHIwS4+1ArvPMfJ3mmQ2wk\n0e2eMhnvqNaonZmpmZV8pT4+odcHNPB5+7Dk4LJ9DQvEsDssAMgggnp08MjmbRlL\nTvr1JgxpBAJZqqszgrVa0Kpj\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-rijyd@water-leak-detector-1bf02.iam.gserviceaccount.com",
+  "client_id": "106283851982036567383",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rijyd%40water-leak-detector-1bf02.iam.gserviceaccount.com"
+}
