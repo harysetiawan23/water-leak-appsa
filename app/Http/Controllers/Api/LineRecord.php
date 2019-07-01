@@ -32,30 +32,30 @@ class LineRecord extends Controller
 
 
 
-        // if($request->input('nodeId')=="SN001"){
-        //     $callPoc = DB::select('call nodeData(?,?,?,?)',array(
-        //         $request->input('nodeId'),
-        //         "110",
-        //         "110",
-        //         $request->input('liters')
-        //     ));
-        // }elseif($request->input('nodeId')=="SN002"){
-        //     $callPoc = DB::select('call nodeData(?,?,?,?)',array(
-        //         $request->input('nodeId'),
-        //         "30",
-        //         "30",
-        //         $request->input('liters')
-        //     ));
-        // }
+        if($request->input('nodeId')=="SN001"){
+            $callPoc = DB::select('call nodeData(?,?,?,?)',array(
+                $request->input('nodeId'),
+                "110",
+                "110",
+                $request->input('liters')
+            ));
+        }elseif($request->input('nodeId')=="SN002"){
+            $callPoc = DB::select('call nodeData(?,?,?,?)',array(
+                $request->input('nodeId'),
+                "30",
+                "30",
+                $request->input('liters')
+            ));
+        }
 
 
 
-        $callPoc = DB::select('call nodeData(?,?,?,?)',array(
-            $request->input('nodeId'),
-            $request->input('flow'),
-            $request->input('pressure'),
-            $request->input('liters')
-        ));
+        // $callPoc = DB::select('call nodeData(?,?,?,?)',array(
+        //     $request->input('nodeId'),
+        //     $request->input('flow'),
+        //     $request->input('pressure'),
+        //     $request->input('liters')
+        // ));
 
 
         $leakChecker = DB::select('select le.* from leak_events le where le.solved = 0 and le.informed = 0');
